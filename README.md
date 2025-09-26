@@ -96,15 +96,12 @@ Admin Panel: FilamentPHP admin panel for superadmin to manage all resources.
 ![Panel](assets/dist/img/panel.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
-<!-- ACKNOWLEDGMENTS -->
-Acknowledgments
+## Acknowledgments
 
-Laravel Documentation
+- [Laravel Documentation](https://laravel.com/docs)  
+- [Livewire Documentation](https://livewire.laravel.com/docs)  
+- [FilamentPHP Documentation](https://filamentphp.com/docs)  
+- [TailwindCSS Documentation](https://tailwindcss.com/docs)  
 
-Livewire Docs
-
-FilamentPHP
-
-TailwindCSS Docs
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> <!-- MARKDOWN LINKS & IMAGES -->
