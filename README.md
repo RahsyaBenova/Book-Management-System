@@ -9,14 +9,14 @@
   <p align="center">
     A simple web-based application to manage books with user and admin panels
     <br />
-    <a href="https://github.com/username/book-management"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RahsyaBenova/book-management-system"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/username/book-management">View Demo</a>
+    <a href="https://github.com/RahsyaBenova/book-management-system">View Demo</a>
     ·
-    <a href="https://github.com/username/book-management/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/RahsyaBenova/book-management-system/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/username/book-management/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/RahsyaBenova/book-management-system/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -48,11 +48,11 @@ The **Book Management System** is a Laravel + Livewire application with a modern
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/username/Book-Management-System.git
+   git clone https://github.com/RahsyaBenova/book-management-system-System.git
 
 2. Navigate to the project directory
    ```sh
-   cd Book-Management-System
+   cd book-management-system-System
 3. Install frontend dependencies
    ```sh
    npm install && npm run dev
