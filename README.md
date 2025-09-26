@@ -96,6 +96,7 @@ Admin Panel: FilamentPHP admin panel for superadmin to manage all resources.
 ![Panel](assets/dist/img/panel.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
+
 ## Acknowledgments
 
 - [Laravel Documentation](https://laravel.com/docs)  
